@@ -37,7 +37,9 @@
 
     Definition: Allows you to fetch and download new content from a remote repository which would then
               update your local repository. It is also a shorthand method of doing a git fetch and git merge.         
-                          
+
+    Example: Assuming there was changes from a remote repository...
+                  git pull                          
 10. **Remote Add / Remove / Show**:
 
 
