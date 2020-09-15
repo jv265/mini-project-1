@@ -55,5 +55,8 @@
 11. **Status**:
 
 
+    Definition: Tells you which files aren't being tracked by git yet and the state of the directory.
+
+
 12. **Master Branch**:
         
