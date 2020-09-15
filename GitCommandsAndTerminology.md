@@ -60,4 +60,7 @@
     Example: Assuming we had changes locally...
                         git status
 12. **Master Branch**:
-        
+
+
+    Definition: The default branch name that would point to the last commit made. Typically, known as the stable branch
+    and where most code that's been thoroughly tested and vetted out is
