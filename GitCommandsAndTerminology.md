@@ -17,10 +17,13 @@
 
 
 7. **Checkout**:
-  
+
+
     Definition: Allows you to switch/navigate from and to different branches with ease. Also, 
     allows you to make future commits to the branch you checked out to.    
-                           
+     
+    Example: Assuming we had a branch called foobar...
+                git checkout foobar                      
 8. **Push**:
 
           
