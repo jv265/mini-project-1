@@ -57,6 +57,7 @@
 
     Definition: Tells you which files aren't being tracked by git yet and the state of the directory.
 
-
+    Example: Assuming we had changes locally...
+                        git status
 12. **Master Branch**:
         
