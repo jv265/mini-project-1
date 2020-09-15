@@ -43,6 +43,10 @@
 10. **Remote Add / Remove / Show**:
 
 
+    Definition: Allows you to either add a connection to a remote repository, remove the conection
+            entirely to the remote repository or give more information about the remote such as the name or remote
+            branches.
+
 11. **Status**:
 
 
