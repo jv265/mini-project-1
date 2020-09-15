@@ -29,7 +29,9 @@
 
     Definition: The ability to upload any changes you made locally to a remote repository.
 
-          
+
+    Example: Assuming you have changes made locally that you want to push to your remote branch...
+                git push          
 9. **Pull**:
          
                           
