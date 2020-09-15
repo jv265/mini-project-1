@@ -33,7 +33,10 @@
     Example: Assuming you have changes made locally that you want to push to your remote branch...
                 git push          
 9. **Pull**:
-         
+
+
+    Definition: Allows you to fetch and download new content from a remote repository which would then
+              update your local repository. It is also a shorthand method of doing a git fetch and git merge.         
                           
 10. **Remote Add / Remove / Show**:
 
