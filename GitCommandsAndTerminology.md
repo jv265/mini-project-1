@@ -26,6 +26,9 @@
                 git checkout foobar                      
 8. **Push**:
 
+
+    Definition: The ability to upload any changes you made locally to a remote repository.
+
           
 9. **Pull**:
          
