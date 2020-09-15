@@ -23,7 +23,8 @@
     allows you to make future commits to the branch you checked out to.    
      
     Example: Assuming we had a branch called foobar...
-                git checkout foobar                      
+                git checkout foobar   
+                                   
 8. **Push**:
 
 
@@ -31,7 +32,8 @@
 
 
     Example: Assuming you have changes made locally that you want to push to your remote branch...
-                git push          
+                git push     
+                     
 9. **Pull**:
 
 
@@ -39,7 +41,8 @@
               update your local repository. It is also a shorthand method of doing a git fetch and git merge.         
 
     Example: Assuming there was changes from a remote repository...
-                  git pull                          
+                  git pull    
+                                        
 10. **Remote Add / Remove / Show**:
 
 
@@ -59,6 +62,7 @@
 
     Example: Assuming we had changes locally...
                         git status
+                        
 12. **Master Branch**:
 
 
