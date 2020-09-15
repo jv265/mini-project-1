@@ -46,6 +46,11 @@
     Definition: Allows you to either add a connection to a remote repository, remove the conection
             entirely to the remote repository or give more information about the remote such as the name or remote
             branches.
+            
+    Example: 
+        1. Adding a reference to remote : git remote add <shortname><url>
+        2. Removing the reference to remote : git remote remove <remote name>
+        3. Showing info about remote : git remote show <remote name>
 
 11. **Status**:
 
