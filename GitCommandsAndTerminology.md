@@ -64,3 +64,8 @@
 
     Definition: The default branch name that would point to the last commit made. Typically, known as the stable branch
     and where most code that's been thoroughly tested and vetted out is
+    
+    Example: The parent branch where developers can either branch off of this branch or
+            make commits directly on this branch.
+            
+            i.e. git push origin master
