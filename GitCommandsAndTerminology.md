@@ -47,7 +47,12 @@ $ git branch --list
 
 # Commit:
 A commit is a very detailed and descriptive snapshot of the current state of a project's code. A commit contains a lot of details as to what what exactly changed since the last time edits/additions were commited to a project.
-
+### Example
+```bash
+$ git commit -m "Feature: added commit definition"
+[jordan-branch c2ab425] Feature: added commit definition
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+```
 
 6. **Merge**:
 
