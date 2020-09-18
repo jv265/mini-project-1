@@ -37,6 +37,13 @@ Forking a Git repository will allow a developer to duplicate an existing reposit
 
 # Branch:
 Branching allows teams of developers to work on different features and try new ideas without interfering with the 'master' copy of a project's code. This is very useful as it allows multiple people to work on the same project without overwriting each other's changes.
+### Example
+```bash
+	$ git branch new_branch
+	$ git branch --list
+	* master
+		new_branch
+```
 
 
 5. **Commit**:
