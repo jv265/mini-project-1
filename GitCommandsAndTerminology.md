@@ -1,5 +1,18 @@
 # Repository:
 A Git Repository contains all commit objects and their references. A repository is stored within a project, in a subdirectory, named `.git`.
+### Example
+```bash
+ $ git init my_project
+ $ ls -1 .git/
+	 branches
+	 config
+	 description
+	 HEAD
+	 hooks
+	 info
+	 objects
+	 refs
+```
 
 2. **Clone**:
 
