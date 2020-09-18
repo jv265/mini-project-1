@@ -54,7 +54,8 @@ $ git commit -m "Feature: added commit definition"
  1 file changed, 2 insertions(+), 2 deletions(-)
 ```
 
-6. **Merge**:
+# Merge:
+A merge allows for the joining of two branches (usually master and some other branch being actively worked on). The is often originates from a pull request, where the owner of the project will have to approve or deny the requested changes.
 
 
 7. **Checkout**:
