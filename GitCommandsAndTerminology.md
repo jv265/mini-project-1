@@ -14,7 +14,7 @@ A Git Repository contains all commit objects and their references. A repository 
 	 refs
 ```
 
-#Clone:
+# Clone:
 A Git Clone will use an existing repository and create a clone (copy) of the target respository on your local machine.
 ### Example
 ```bash
