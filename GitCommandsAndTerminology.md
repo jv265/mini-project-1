@@ -56,6 +56,8 @@ $ git commit -m "Feature: added commit definition"
 
 # Merge:
 A merge allows for the joining of two branches (usually master and some other branch being actively worked on). The is often originates from a pull request, where the owner of the project will have to approve or deny the requested changes.
+### Example
+![merge_example.png](./images/merge_example.png "merge example")
 
 
 7. **Checkout**:
