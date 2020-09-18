@@ -35,7 +35,8 @@ Forking a Git repository will allow a developer to duplicate an existing reposit
 ![fork_example.png](./images/fork_example.png "fork example")
 
 
-4. **Branch**:
+# Branch:
+Branching allows teams of developers to work on different features and try new ideas without interfering with the 'master' copy of a project's code. This is very useful as it allows multiple people to work on the same project without overwriting each other's changes.
 
 
 5. **Commit**:
