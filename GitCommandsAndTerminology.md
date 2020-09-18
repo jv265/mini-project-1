@@ -16,6 +16,17 @@ A Git Repository contains all commit objects and their references. A repository 
 
 #Clone:
 A Git Clone will use an existing repository and create a clone (copy) of the target respository on your local machine.
+### Example
+```bash
+ $ git clone https://github.com/kaw393939/IS601-Fall2020
+	 Cloning into 'IS601-Fall2020'...
+	 remote: Enumerating objects: 32, done.
+	 remote: Counting objects: 100% (32/32), done.
+	 remote: Compressing objects: 100% (25/25), done.
+	 Receiving objects: 100% (32/32), 7.57 KiB | 7.57 MiB/s, done.
+	 remote: Total 32 (delta 7), reused 8 (delta 1), pack-reused 0
+	 Resolving deltas: 100% (7/7), done.
+```
 
 
 3. **Fork**:
