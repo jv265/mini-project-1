@@ -29,7 +29,8 @@ A Git Clone will use an existing repository and create a clone (copy) of the tar
 ```
 
 
-3. **Fork**:
+# Fork:
+Forking a Git repository will allow a developer to duplicate an existing repository into their own personal account. This generally allows a developer to contribute code and then submit a pull request in order for the original repository to approve and merge in changes. This is especially useful for giving new life to a project that was abandoned, or creating your own custom 'spin' of an existing project (license permitting).
 
 
 4. **Branch**:
