@@ -45,8 +45,8 @@ $ git branch --list
   new_branch
 ```
 
-
-5. **Commit**:
+# Commit:
+A commit is a very detailed and descriptive snapshot of the current state of a project's code. A commit contains a lot of details as to what what exactly changed since the last time edits/additions were commited to a project.
 
 
 6. **Merge**:
