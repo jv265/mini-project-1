@@ -1,6 +1,6 @@
 # mini-project-1
 
-###Team Members:
+### Team Members
 
 ##### (Leader) Jordan Pisaniello
 ##### Josh Vilson
