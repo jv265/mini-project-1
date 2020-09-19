@@ -6,9 +6,10 @@
 ##### Josh Vilson
 
 ### Table of Contents
-   * [_GitCommandsAndTerminology_](https://github.com/jv265/mini-project-1/blob/master/GitCommandsAndTermsSection/GitCommandsAndTerminology.md)
-   * [_GitFlowExplanation_](https://github.com/jv265/mini-project-1/blob/master/GitFlowSection/GitFlowExplanation.md)
-   * [_Sources_](https://github.com/jv265/mini-project-1/blob/master/SourcesSection/Sources.md)
+   * [Git Commands and Terminology](https://github.com/jv265/mini-project-1/blob/master/git/commands_and_terms.md)
+   * [GitFlow](https://github.com/jv265/mini-project-1/blob/master/gitflow/gitflow.md)
+   * [Docker & CI](https://github.com/jv265/mini-project-1/blob/master/docker_ci/docker_ci.md)
+   * [Sources](https://github.com/jv265/mini-project-1/blob/master/sources/sources.md)
    
 ### Changlog
 commit e81e4a71f2beb1a6e608761ad9695a4a80bc17df (HEAD -> formatting_fixes_and_example_updates, origin/formatting_fixes_and_example_updates)
