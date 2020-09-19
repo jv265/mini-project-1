@@ -70,9 +70,9 @@ Switched to branch 'master'
 # Push:
 The ability to upload any changes you made locally to a remote repository.
 ### Example
-```
-Assuming you have changes made locally that you want to push to your remote branch...
-                git push     
+```bash
+$ git push
+Everything up-to-date 
 ```
                     
 # Pull:
