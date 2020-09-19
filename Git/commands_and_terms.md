@@ -8,7 +8,7 @@
 [Checkout](#checkout)
 [Push](#push)
 [Pull](#pull)
-[Remote Add / Remove / Show](#remote-add-/-remove-/-show)
+[Remote Add / Remove / Show](#remote-add--remove--show)
 [Status](#status)
 [Master Branch](#master-branch)
 
