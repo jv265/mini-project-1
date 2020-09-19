@@ -1,4 +1,4 @@
 # Sources
-   * [_LearningGit_](https://www.w3docs.com/learn-git.html)
-   * [_GitTutorial_](https://git-scm.com/docs/gittutorial)
-   * [_VogellaGitTutorial_](https://www.vogella.com/tutorials/Git/article.html) 
+   * [Learning Git](https://www.w3docs.com/learn-git.html)
+   * [Git Tutorial](https://git-scm.com/docs/gittutorial)
+   * [Vogella Git Tutorial](https://www.vogella.com/tutorials/Git/article.html) 
