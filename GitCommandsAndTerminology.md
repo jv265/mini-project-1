@@ -95,10 +95,18 @@ Allows you to either add a connection to a remote repository, remove the connect
 # Status:
 Tells you which files aren't being tracked by git yet and the state of the directory.
 ### Example
-```
-Assuming we had changes locally...
-                        
-              git status
+```bash
+Assuming we had changes locally that haven't been committed yet...
+
+$ git status
+
+On branch formatting_fixes_and_example_updates
+Your branch is up to date with 'origin/formatting_fixes_and_example_updates'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   GitCommandsAndTerminology.md                     
 ```
                         
 # Master Branch:
