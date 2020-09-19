@@ -1,3 +1,6 @@
+# Terms:
+[Repository](#repository)
+
 # Repository:
 A Git Repository contains all commit objects and their references. A repository is stored within a project, in a subdirectory, named `.git`.
 ### Example

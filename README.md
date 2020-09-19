@@ -7,7 +7,7 @@
 
 ### Table of Contents
    * [Git Commands and Terminology](https://github.com/jv265/mini-project-1/blob/master/Git/commands_and_terms.md)
-   * [Git Flow](https://github.com/jv265/mini-project-1/blob/master/GitFlow/gitflow.md)
+   * [GitFlow](https://github.com/jv265/mini-project-1/blob/master/GitFlow/gitflow.md)
    * [Sources](https://github.com/jv265/mini-project-1/blob/master/Sources/sources.md)
    
 ### Changlog
