@@ -1,5 +1,16 @@
 # Terms:
 [Repository](#repository)
+[Clone](#clone)
+[Fork](#fork)
+[Branch](#branch)
+[Commit](#commit)
+[Merge](#merge)
+[Checkout](#checkout)
+[Push](#push)
+[Pull](#pull)
+[Remote Add / Remove / Show](#remote-add-/-remove-/-show)
+[Status](#status)
+[Master Branch](#master-branch)
 
 # Repository:
 A Git Repository contains all commit objects and their references. A repository is stored within a project, in a subdirectory, named `.git`.
