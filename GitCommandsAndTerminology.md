@@ -62,9 +62,9 @@ A merge allows for the joining of two branches (usually master and some other br
 # Checkout:
 Allows you to switch/navigate from and to different branches with ease. Also, allows you to make future commits to the branch you checked out to.    
 ### Example    
-```
-Assuming we had a branch called foobar...
-                git checkout foobar   
+```bash
+$ git checkout master
+Switched to branch 'master'
 ```
                                    
 # Push:
