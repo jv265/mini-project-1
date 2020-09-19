@@ -110,7 +110,7 @@ Changes not staged for commit:
 ```
                         
 # Master Branch:
-The default branch name that would point to the last commit made. Typically, known as the stable branch and where most code that's been thoroughly tested and vetted out is
+The default branch name that would point to the last commit made. Typically, known as the stable branch and where most code that's been thoroughly tested and vetted out is. The default branch name within Git is known as master.
 ### Example 
 ```
 The parent branch where developers can either branch off of this branch or make commits directly on this branch.
