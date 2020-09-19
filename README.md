@@ -6,8 +6,9 @@
 ##### Josh Vilson
 
 ### Table of Contents
-   * [Git Commands and Terminology](https://github.com/jv265/mini-project-1/blob/master/Git/commands_and_terms.md)
-   * [GitFlow](https://github.com/jv265/mini-project-1/blob/master/GitFlow/gitflow.md)
+   * [Git Commands and Terminology](https://github.com/jv265/mini-project-1/blob/master/git/commands_and_terms.md)
+   * [GitFlow](https://github.com/jv265/mini-project-1/blob/master/gitflow/gitflow.md)
+   * [Docker & CI](https://github.com/jv265/mini-project-1/blob/master/docker_ci/docker_ci.md)
    * [Sources](https://github.com/jv265/mini-project-1/blob/master/Sources/sources.md)
    
 ### Changlog
