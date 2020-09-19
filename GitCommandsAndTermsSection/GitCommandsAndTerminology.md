@@ -32,7 +32,7 @@ A Git Clone will use an existing repository and create a clone (copy) of the tar
 # Fork:
 Forking a Git repository will allow a developer to duplicate an existing repository into their own personal account. This generally allows a developer to contribute code and then submit a pull request in order for the original repository to approve and merge in changes. This is especially useful for giving new life to a project that was abandoned, or creating your own custom 'spin' of an existing project (license permitting).
 ### Example
-![fork_example.png](./images/fork_example.png "fork example")
+![fork_example.png](../images/fork_example.png "fork example")
 
 
 # Branch:
@@ -57,63 +57,63 @@ $ git commit -m "Feature: added commit definition"
 # Merge:
 A merge allows for the joining of two branches (usually master and some other branch being actively worked on). The is often originates from a pull request, where the owner of the project will have to approve or deny the requested changes.
 ### Example
-![merge_example.png](./images/merge_example.png "merge example")
+![merge_example.png](../images/merge_example.png "merge example")
 
-
-7. **Checkout**:
-
-
-    Definition: Allows you to switch/navigate from and to different branches with ease. Also, 
-    allows you to make future commits to the branch you checked out to.    
-     
-    Example: Assuming we had a branch called foobar...
-                git checkout foobar   
+# Checkout:
+Allows you to switch/navigate from and to different branches with ease. Also, allows you to make future commits to the branch you checked out to.    
+### Example    
+```bash
+$ git checkout master
+Switched to branch 'master'
+```
                                    
-8. **Push**:
-
-
-    Definition: The ability to upload any changes you made locally to a remote repository.
-
-
-    Example: Assuming you have changes made locally that you want to push to your remote branch...
-                git push     
-                     
-9. **Pull**:
-
-
-    Definition: Allows you to fetch and download new content from a remote repository which would then
-              update your local repository. It is also a shorthand method of doing a git fetch and git merge.         
-
-    Example: Assuming there was changes from a remote repository...
-                  git pull    
+# Push:
+The ability to upload any changes you made locally to a remote repository.
+### Example
+```bash
+$ git push
+Everything up-to-date 
+```
+                    
+# Pull:
+Allows you to fetch and download new content from a remote repository which would then update your local repository. It is also a shorthand method of doing a git fetch and git merge.         
+### Example
+```bash
+$ git pull
+Already up to date.
+```  
                                         
-10. **Remote Add / Remove / Show**:
+# Remote Add / Remove / Show:
+Allows you to either add a connection to a remote repository, remove the connection entirely to the remote repository or give more information about the remote such as the name or remote branches.
+### Example
+```
+1. Adding a reference to remote : git remote add <shortname><url>
+2. Removing the reference to remote : git remote remove <remote name>
+3. Showing info about remote : git remote show <remote name>
+```
 
+# Status:
+Tells you which files aren't being tracked by git yet and the state of the directory.
+### Example
+```bash
+Assuming we had changes locally that haven't been committed yet...
 
-    Definition: Allows you to either add a connection to a remote repository, remove the conection
-            entirely to the remote repository or give more information about the remote such as the name or remote
-            branches.
-            
-    Example: 
-        1. Adding a reference to remote : git remote add <shortname><url>
-        2. Removing the reference to remote : git remote remove <remote name>
-        3. Showing info about remote : git remote show <remote name>
+$ git status
 
-11. **Status**:
+On branch formatting_fixes_and_example_updates
+Your branch is up to date with 'origin/formatting_fixes_and_example_updates'.
 
-
-    Definition: Tells you which files aren't being tracked by git yet and the state of the directory.
-
-    Example: Assuming we had changes locally...
-                        git status
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   GitCommandsAndTerminology.md                     
+```
                         
-12. **Master Branch**:
-
-
-    Definition: The default branch name that would point to the last commit made. Typically, known as the stable branch
-    and where most code that's been thoroughly tested and vetted out is
-    
-    Example: The parent branch where developers can either branch off of this branch or
-            make commits directly on this branch.
+# Master Branch:
+The default branch name that would point to the last commit made. Typically, known as the stable branch and where most code that's been thoroughly tested and vetted out is. The default branch name within Git is known as master.
+### Example 
+```
+The parent branch where developers can either branch off of this branch or make commits directly on this branch.
             
             i.e. git push origin master
+```
