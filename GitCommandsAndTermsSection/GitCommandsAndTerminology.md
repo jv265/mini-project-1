@@ -32,7 +32,7 @@ A Git Clone will use an existing repository and create a clone (copy) of the tar
 # Fork:
 Forking a Git repository will allow a developer to duplicate an existing repository into their own personal account. This generally allows a developer to contribute code and then submit a pull request in order for the original repository to approve and merge in changes. This is especially useful for giving new life to a project that was abandoned, or creating your own custom 'spin' of an existing project (license permitting).
 ### Example
-![fork_example.png](./images/fork_example.png "fork example")
+![fork_example.png](../images/fork_example.png "fork example")
 
 
 # Branch:
@@ -57,7 +57,7 @@ $ git commit -m "Feature: added commit definition"
 # Merge:
 A merge allows for the joining of two branches (usually master and some other branch being actively worked on). The is often originates from a pull request, where the owner of the project will have to approve or deny the requested changes.
 ### Example
-![merge_example.png](./images/merge_example.png "merge example")
+![merge_example.png](../images/merge_example.png "merge example")
 
 # Checkout:
 Allows you to switch/navigate from and to different branches with ease. Also, allows you to make future commits to the branch you checked out to.    
