@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="641a6371-2a2c-4091-a8a7-5dad0bdc14ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hWaKnjjZFsbBcno4YnR8FlufZt" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/GitCommandsAndTermsSection" />
+      <recent name="$PROJECT_DIR$/GitFlowSection" />
+      <recent name="$PROJECT_DIR$/SourceSection" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="641a6371-2a2c-4091-a8a7-5dad0bdc14ac" name="Default Changelist" comment="" />
+      <created>1600129242208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600129242208</updated>
+      <workItem from="1600129244165" duration="1636000" />
+      <workItem from="1600223373662" duration="3221000" />
+      <workItem from="1600474173294" duration="5129000" />
+      <workItem from="1600616180481" duration="1070000" />
+    </task>
+    <task id="LOCAL-00001" summary="Task: added new file for git commands and terminology">
+      <created>1600129393697</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600129393697</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Task: added terms to define and give examples for">
+      <created>1600129484423</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600129484423</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Feature: added definition for checkout">
+      <created>1600129614153</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600129614153</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Feature: added example for checkout">
+      <created>1600129746791</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600129746791</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Feature: added definition for push">
+      <created>1600129790864</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1600129790864</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Feature: added example for push">
+      <created>1600129822628</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600129822628</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Feature: added definition for pull">
+      <created>1600129860227</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600129860227</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Feature: added example for pull">
+      <created>1600129906747</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1600129906747</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Feature: added definition for remote add / remove / show">
+      <created>1600129959624</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600129959624</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Feature: added example for remote add / remove / show">
+      <created>1600130005967</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600130005967</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Feature: added definition for status">
+      <created>1600130039990</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600130039990</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Feature: added example for status">
+      <created>1600130075426</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1600130075426</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Feature: added definition for master branch">
+      <created>1600130107634</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1600130107634</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Feature: added example for master branch">
+      <created>1600130134520</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1600130134520</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Fix: formatting updates">
+      <created>1600130232853</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1600130232853</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Task: Added sources section within readme">
+      <created>1600223643415</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1600223643415</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Task: Added Table of contents section with gitcommandsandterminology underneath">
+      <created>1600223785118</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1600223785118</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Task: Added new file GitFlowExplanation">
+      <created>1600223920866</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1600223920866</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Feature: Added explanation to gitflow workflow along with associated images">
+      <created>1600226343729</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1600226343729</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Task: added new link to git flow explanation within table of contents">
+      <created>1600226626963</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1600226626963</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Fix: formatting updates for definitions and examples">
+      <created>1600475421479</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1600475421479</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Fix: Updated example for Status">
+      <created>1600475683064</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1600475683064</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Fix: Updated definition for Master Branch">
+      <created>1600475775817</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1600475775817</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Fix: Updated example for checkout">
+      <created>1600476179809</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1600476179809</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Fix: Updated example for push">
+      <created>1600476242716</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1600476242716</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Fix: Updated example for pull">
+      <created>1600476665215</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1600476665215</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Task: Migrated sources into its own file">
+      <created>1600476870269</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1600476870269</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Task: Migrated sources into it's own directory instead">
+      <created>1600477019278</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1600477019279</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Task: Renamed directory">
+      <created>1600477053074</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1600477053074</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Task: Migrated git flow explanation to its own directory for sectioning">
+      <created>1600477162924</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1600477162924</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Fix: Updated git flow explanation due to directory migration">
+      <created>1600477352190</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1600477352190</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Task: Migrated git commands and terminology to its own section">
+      <created>1600477443772</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1600477443772</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Fix: Updated readme due to path change in url for git commands and terms">
+      <created>1600477544204</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1600477544204</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Task: Added new index in read me for sources">
+      <created>1600477872390</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1600477872390</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Fix: Spacing addition">
+      <created>1600477916224</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1600477916224</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Task: Added Changelog within readme">
+      <created>1600478346364</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1600478346364</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feature: added example for status" />
+    <MESSAGE value="Feature: added definition for master branch" />
+    <MESSAGE value="Feature: added example for master branch" />
+    <MESSAGE value="Fix: formatting updates" />
+    <MESSAGE value="Task: Added sources section within readme" />
+    <MESSAGE value="Task: Added Table of contents section with gitcommandsandterminology underneath" />
+    <MESSAGE value="Task: Added new file GitFlowExplanation" />
+    <MESSAGE value="Feature: Added explanation to gitflow workflow along with associated images" />
+    <MESSAGE value="Task: added new link to git flow explanation within table of contents" />
+    <MESSAGE value="Fix: formatting updates for definitions and examples" />
+    <MESSAGE value="Fix: Updated example for Status" />
+    <MESSAGE value="Fix: Updated definition for Master Branch" />
+    <MESSAGE value="Fix: Updated example for checkout" />
+    <MESSAGE value="Fix: Updated example for push" />
+    <MESSAGE value="Fix: Updated example for pull" />
+    <MESSAGE value="Task: Migrated sources into its own file" />
+    <MESSAGE value="Task: Migrated sources into it's own directory instead" />
+    <MESSAGE value="Task: Renamed directory" />
+    <MESSAGE value="Task: Migrated git flow explanation to its own directory for sectioning" />
+    <MESSAGE value="Fix: Updated git flow explanation due to directory migration" />
+    <MESSAGE value="Task: Migrated git commands and terminology to its own section" />
+    <MESSAGE value="Fix: Updated readme due to path change in url for git commands and terms" />
+    <MESSAGE value="Task: Added new index in read me for sources" />
+    <MESSAGE value="Fix: Spacing addition" />
+    <MESSAGE value="Task: Added Changelog within readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: Added Changelog within readme" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600475249656">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.822@0.23.1440.822" timestamp="1600475249656" />
+    <state x="320" y="161" key="Vcs.Push.Dialog.v2" timestamp="1600478347688">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="320" y="161" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1600478347688" />
+    <state x="518" y="355" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600474206996">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="518" y="355" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.822@0.23.1440.822" timestamp="1600474206996" />
+    <state x="385" y="169" width="670" height="676" key="search.everywhere.popup" timestamp="1600226182981">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="385" y="169" width="670" height="676" key="search.everywhere.popup/0.23.1440.822@0.23.1440.822" timestamp="1600226182981" />
+  </component>
+</project>
