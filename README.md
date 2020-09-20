@@ -12,7 +12,6 @@
    * [Sources](https://github.com/jv265/mini-project-1/blob/master/sources/sources.md)
    
 ### Changlog
-```
 c652ce5 - jp244, 23 hours ago : Merge pull request #4 from jv265/more_edits_and_fixes
 39f648c - Jordan Pisaniello, 23 hours ago : fix: added source and fixed directories
 8cff922 - Jordan Pisaniello, 23 hours ago : fix: changed pages filenames
@@ -80,4 +79,3 @@ caba0c6 - joshvilson, 6 days ago : Feature: added example for checkout
 3f628e5 - joshvilson, 6 days ago : Task: added terms to define and give examples for
 342dbf5 - joshvilson, 6 days ago : Task: added new file for git commands and terminology
 010f6ac - jv265, 6 days ago : Initial commit
-```
